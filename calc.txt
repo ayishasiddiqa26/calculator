@@ -1,1 +1,2 @@
 This project describes calculator operations using text files.
+Addition operation is represented by the symbol '+'
