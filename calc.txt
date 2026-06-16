@@ -12,3 +12,4 @@ The multiplication of two whole numbers results in the product obtained by combi
 Changing calc.txt once
 Changing calc.txt twice
 Changing calc.txt thrice
+Changing calc.txt fourth time
