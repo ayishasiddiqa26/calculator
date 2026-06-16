@@ -4,3 +4,5 @@ Created calculator project
 - Addition feature merged into main
 #Subtract
 -Subtraction feature added into main
+#Multiplication
+-Multiplication feature added into main
