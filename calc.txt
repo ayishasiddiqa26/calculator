@@ -3,3 +3,4 @@ Addition operation is represented by the symbol '+'
 example : 2+3=5
 The addition of two whole numbers results in the total or sum of those values combined.
 Subtraction operation is represented by the symbol '-' 
+Example: 10-5=5 
