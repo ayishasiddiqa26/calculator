@@ -7,3 +7,4 @@ Example: 10-5=5
 The subtraction of two whole numbers results in the difference obtained by taking one value away from the other.
 Multiplication operation is represented by '*' 
 Example : 2*5=10 
+The multiplication of two whole numbers results in the product obtained by combining those values through repeated addition.
