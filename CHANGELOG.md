@@ -6,3 +6,5 @@ Created calculator project
 -Subtraction feature added into main
 #Multiplication
 -Multiplication feature added into main
+ 
+Project now supports addition, subtraction, and multiplication.
