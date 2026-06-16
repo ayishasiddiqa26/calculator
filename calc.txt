@@ -1,3 +1,4 @@
 This project describes calculator operations using text files.
 Addition operation is represented by the symbol '+'
 example : 2+3=5
+The addition of two whole numbers results in the total or sum of those values combined.
