@@ -9,3 +9,4 @@ Multiplication operation is represented by '*'
 Example : 2*5=10 
 The multiplication of two whole numbers results in the product obtained by combining those values through repeated addition.
 
+Changing calc.txt once
